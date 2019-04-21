@@ -1,0 +1,39 @@
+body {
+  background-color: #071428;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  border: 40px solid #328f93;
+  border-top: 0px;
+  padding: 20px 100px 40px 100px;
+  margin: auto;
+}
+
+h2 {
+  margin-top: 16px;
+  margin-bottom: 80px;
+}
+
+p {
+  font-size: 0.85em;
+  margin-bottom: 80px;
+}
+
+#submitButton {
+  background-color: #ffae00;
+  border: 2px solid white;
+  border-radius: 20px;
+  font-size: 1.2em;
+  padding: 25px 16px 25px 16px;
+}
+
+.fontStyle {
+  color: white;
+  text-align: center;
+}
+
+.signUp {
+  color: white;
+  font-size: 0.9em;
+  text-align: center;
+  margin: 20px auto 40px auto;
+}
